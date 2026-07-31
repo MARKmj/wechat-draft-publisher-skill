@@ -1,0 +1,19 @@
+{
+  "brand": "你的公众号名称",
+  "author": "作者名",
+  "intro": "一句话介绍你的专业身份、长期研究方向和内容承诺。",
+  "footer": "你的公众号名称｜一句话定位",
+  "digest": "文章摘要，建议 40-80 字。",
+  "source_url": "",
+  "accent": "#126BFF",
+  "muted": "#8A94A6",
+  "ink": "#273142",
+  "soft_bg": "#FAFCFF",
+  "cta": {
+    "enabled": true,
+    "follow_text": "如果你也关注这个主题，欢迎关注我。",
+    "body": "后面我会持续分享系统方法和实操经验。",
+    "reply_keyword": "资料",
+    "gift_name": "资料包"
+  }
+}
